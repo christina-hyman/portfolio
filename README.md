@@ -18,9 +18,13 @@ Pforzheimer Honors College, Dean’s List First Honors All Semesters
 
 ## TECHNICAL SKILLS
 **Analytics Languages**: Python, SQL 
+
 **Data Visualization Tools**: Google Analytics, Microsoft Excel, Google Sheets, Google Data Studio
+
 **Big Data Management**: Google Cloud Platform (GCP), Google BigQuery, Hadoop, HDFS, Hive, HiveQL
+
 **Machine Learning Algorithms**: Decision Tree, KNN, Regression (Linear, Logistic, Multiple), Naive Bayes, Random Forest, SVM, Neural Network, K-Means
+
 **Libraries**: Python (Pandas, NumPy, Matplotlib, Seaborn scikit-learn, SciPy, Tensorflow, Keras)
 
 ## PROJECTS
@@ -56,7 +60,8 @@ Pforzheimer Honors College, Dean’s List First Honors All Semesters
 ## WORK EXPERIENCE
 ### Pace University Learning Center	| Pleasantville, NY
 
-**February 2018 – December 2020**
 Tutor – Algebra, Trigonometry, Pre-Calculus, Calculus 1 & 2, Statistics
+
+**February 2018 – December 2020**
 * Interact with students to create an impact on their knowledge in mathematics with easy to understand terms
 * Differentiated instruction with analytical thinking and problem-solving skills to facilitate learning of mathematical concepts
