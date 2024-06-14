@@ -1,5 +1,5 @@
 # CHRISTINA HYMAN
-christina.a.hyman@pace.edu | 914.573.6426 | New York, NY 10038 | LinkedIn 
+christina.a.hyman@pace.edu | 914.573.6426 | New York, NY 10038 | LinkedIn[https://www.linkedin.com/in/christinahyman/] 
 
 ## PROFILE
 Aspiring Data Scientist with strong background in designing practical machine learning solutions; recent graduate recent graduate with analytical skills and problem-solving ability; pursing a career that leverages my ML skills to develop and deploy innovative and impactful applications in a collaborative environment.
@@ -59,7 +59,6 @@ Pforzheimer Honors College, Dean’s List First Honors All Semesters
 
 ## WORK EXPERIENCE
 ### Pace University Learning Center	| Pleasantville, NY
-
 Tutor – Algebra, Trigonometry, Pre-Calculus, Calculus 1 & 2, Statistics
 
 **February 2018 – December 2020**
