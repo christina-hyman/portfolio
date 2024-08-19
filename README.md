@@ -1,8 +1,9 @@
 # CHRISTINA HYMAN
-christina.a.hyman@pace.edu | 914.573.6426 | New York, NY 10038 | [LinkedIn](https://www.linkedin.com/in/christinahyman/)
+christina.a.hyman@gmail.com | 914.573.6426 | New York, NY 10038 | [LinkedIn](https://www.linkedin.com/in/christinahyman/)
 
 ## PROFILE
-Aspiring Data Scientist with strong background in designing practical machine learning solutions; recent graduate recent graduate with analytical skills and problem-solving ability; pursing a career that leverages my ML skills to develop and deploy innovative and impactful applications in a collaborative environment.
+Aspiring Data Scientist with expertise in statistical analysis, predictive modeling, and data visualization. Recent graduate with
+analytical skills, communication skills, and problem-solving ability to drive insights for business growth and innovation.
 
 ## EDUCATION
 ### Pace University, Seidenberg College of Computer Science and Information Systems | New York, NY
@@ -13,17 +14,16 @@ Bachelor of Arts (BA) in Mathematics and Economics | GPA: 3.98	May 2020
 Pforzheimer Honors College, Dean’s List First Honors All Semesters
 
 ## RELEVANT COURSEWORK
-• Database Management Systems • Machine Learning • Scalable Databases • Quantitative Analysis and Forecasting • Econometrics •
-• Deep Learning • Algorithms for Data Science • Data Mining • Mathematical Foundations for Data Science • Programming using Python •
+Database Management Systems, Machine Learning, Scalable Databases, Quantitative Analysis and Forecasting, Econometrics, Deep Learning, Algorithms for Data Science, Data Mining, Mathematical Foundations for Data Science
 
 ## TECHNICAL SKILLS
-**Analytics Languages**: Python, SQL 
+**Analytics Languages**: Python (Jupyter Notebook, Google Colab), SQL 
 
 **Data Visualization Tools**: Google Analytics, Microsoft Excel, Google Sheets, Google Data Studio
 
 **Big Data Management**: Google Cloud Platform (GCP), Google BigQuery, Hadoop, HDFS, Hive, HiveQL
 
-**Machine Learning Algorithms**: Decision Tree, KNN, Regression (Linear, Logistic, Multiple), Naive Bayes, Random Forest, SVM, Neural Network, K-Means
+**Machine Learning Algorithms**: Logistic Regression, Decision Tree, Random Forest (RF), Support Vector, K-Means
 
 **Libraries**: Python (Pandas, NumPy, Matplotlib, Seaborn scikit-learn, SciPy, Tensorflow, Keras)
 
@@ -32,6 +32,7 @@ Pforzheimer Honors College, Dean’s List First Honors All Semesters
 **January 2024 – May 2024**
 * Conducted statistical analysis to develop price prediction models for Airbnb listings in New York City
 *	Created data visualizations and analyzed spatial patterns from Airbnb listings using Geopandas in Python
+*	Determined the causal effect of NYC’s enforcement of Local Law 18 using the Difference-in-Differences method
 *	Developed and fine-tuned predictive models (SVR, Decision Trees, Random Forest (RF), XGBoost) for Airbnb prices
 *	Achieved high model accuracy with R-squared values of 77.36% for RF Regressor and 80.36% for XGBoost Regressor
 
@@ -44,18 +45,15 @@ Pforzheimer Honors College, Dean’s List First Honors All Semesters
 
 ### Factors Determining Airline Passenger Satisfaction using Google Cloud Platform	
 **April 2023 – May 2023**
-* Stored a file of 129880 survey responses into a bucket on Google Cloud Storage, queried the file using SQL Workspace in Google Cloud Platform (GCP), and loaded the data onto Google Colab using BigQuery API for data analysis and visualization
-* Performed feature selection and transformation to determine attributes that have a greater impact on airline satisfaction
-
-### Predictive Analysis for Diabetes Diagnosis
-**April 2023 – May 2023**
-* Collaborated as a team of three using Jupyter Notebook (Python) and Machine Learning algorithms including Naïve Bayes, Logistic Regression, SVM, and Decision Trees to predict whether someone has diabetes
-* Achieved an accuracy of 95.13% and F-Score of 75.13% from the Logistic Regression model
-
+* Analyzed the "Airline Passenger Satisfaction" datasets from Kaggle using Google Cloud Platform (GCP) to identify factors influencing passenger satisfaction
+* Uploaded and managed 129,880 survey responses in Google Cloud Storage, combined train and test datasets with SQL queries in BigQuery, and loaded data into Google Colab via the BigQuery API
+* Visualized insights and relationships between factors in Google Colab using Matplotlib and Seaborn libraries
+* Performed feature selection and transformation using Python's scikit-learn and determined key attributes on airine
+satisfaction, which are Seat Comfort, Inflight Entertainment, and On-Board Service
 
 ## WORK EXPERIENCE
 ### Pace University Learning Center	| Pleasantville, NY
 Tutor – Algebra, Trigonometry, Pre-Calculus, Calculus 1 & 2, Statistics
 **February 2018 – December 2020**
 * Interact with students to create an impact on their knowledge in mathematics with easy to understand terms
-* Differentiated instruction with analytical thinking and problem-solving skills to facilitate learning of mathematical concepts
+* Facilitated learning of mathematical concepts by incorporating analytical thinking and problem-solving skill
