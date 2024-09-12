@@ -36,7 +36,7 @@ Database Management Systems, Machine Learning, Scalable Databases, Quantitative 
 *	Developed and fine-tuned predictive models (SVR, Decision Trees, Random Forest (RF), XGBoost) for Airbnb prices
 *	Achieved high model accuracy with R-squared values of 77.36% for RF Regressor and 80.36% for XGBoost Regressor
 
-<p>Check out my <a href="https://raw.githubusercontent.com/christina-hyman/portfolio/main/Data%20Science%20Thesis%20Presentation.pdf" target="_blank">Data Science Thesis Presentation (PDF)</a>.</p>
+<p>Check out my <a href="https://raw.githubusercontent.com/christina-hyman/portfolio/main/Data%20Science%20Thesis%20Presentation.pdf" target="_blank">Data Science Thesis Presentation (PDF)</a>. along with the <a href="https://github.com/christina-hyman/portfolio/blob/d3c51bb27081d6274ae25f44b15a926b0ed95e49/Thesis%20Code%20-%20Christina%20Hyman.pdf" target="_blank">Code</a>.</p>
 
 ### Cat and Dog Image Classification Using Transfer Learning from TensorFlow and PyTorch	
 **November 2023 – December 2023**
