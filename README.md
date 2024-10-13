@@ -19,7 +19,9 @@ Database Management Systems, Machine Learning, Scalable Databases, Quantitative 
 ## TECHNICAL SKILLS
 **Analytics Languages**: Python (Jupyter Notebook, Google Colab), SQL 
 
-**Data Visualization Tools**: Google Analytics, Microsoft Excel, Google Sheets, Google Data Studio
+**Database Management**: MySQL, PostgreSQL
+
+**Data Visualization Tools**: Tableau, Google Analytics, Microsoft Excel, Google Sheets, Google Data Studio
 
 **Big Data Management**: Google Cloud Platform (GCP), Google BigQuery, Hadoop, HDFS, Hive, HiveQL
 
@@ -28,6 +30,15 @@ Database Management Systems, Machine Learning, Scalable Databases, Quantitative 
 **Libraries**: Python (Pandas, NumPy, Matplotlib, Seaborn scikit-learn, SciPy, Tensorflow, Keras)
 
 ## PROJECTS
+
+### Job Postings Data Analysis using SQL and Tableau
+**September 2024 - October 2024**
+* Conducted in-depth analysis of 787686 job postings data from the year 2023 to uncover key trends in hiring for various data-related professions, including Data Scientists, Data Engineers, and Data Analysts
+* Developed SQL queries to extract insights on monthly job posting trends, daily variations in postings by time of day (focused on EST), and the most in-demand skills across different job titles
+* Analyzed salary data to identify common skills associated with the highest-paying Data Scientist roles and determined the top companies with the most job postings for data-related positions
+* Utilized PostgreSQL and Tableau to create interactive visualizations for presenting findings, including packed bubble charts and bar charts highlighting skill demand and profession-specific trends
+<p>Check out my <a href="https://github.com/christina-hyman/SQL-Job-Postings-Data-Analysis-2023" target="_blank">Repository</a> along with the <a href="https://public.tableau.com/views/JobPostingsDataAnalysis2023/JobPostingDataAnalysis2023?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">Tableau Dashboard</a></p> 
+
 ### Analyzing Airbnb Listings and the Development Price Prediction Models in New York City	
 **January 2024 – May 2024**
 * Conducted statistical analysis to develop price prediction models for Airbnb listings in New York City
@@ -36,7 +47,7 @@ Database Management Systems, Machine Learning, Scalable Databases, Quantitative 
 *	Developed and fine-tuned predictive models (SVR, Decision Trees, Random Forest (RF), XGBoost) for Airbnb prices
 *	Achieved high model accuracy with R-squared values of 77.36% for RF Regressor and 80.36% for XGBoost Regressor
 
-<p>Check out my <a href="https://raw.githubusercontent.com/christina-hyman/portfolio/main/Data%20Science%20Thesis%20Presentation.pdf" target="_blank">Data Science Thesis Presentation (PDF)</a>. along with the <a href="https://github.com/christina-hyman/portfolio/blob/d3c51bb27081d6274ae25f44b15a926b0ed95e49/Thesis%20Code%20-%20Christina%20Hyman.pdf" target="_blank">Code</a>.</p>
+<p>Check out my <a href="https://raw.githubusercontent.com/christina-hyman/portfolio/main/Data%20Science%20Thesis%20Presentation.pdf" target="_blank">Data Science Thesis Presentation (PDF)</a> along with the <a href="https://github.com/christina-hyman/portfolio/blob/d3c51bb27081d6274ae25f44b15a926b0ed95e49/Thesis%20Code%20-%20Christina%20Hyman.pdf" target="_blank">Code</a></p>
 
 ### Cat and Dog Image Classification Using Transfer Learning from TensorFlow and PyTorch	
 **November 2023 – December 2023**
