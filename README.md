@@ -31,6 +31,15 @@ Database Management Systems, Machine Learning, Scalable Databases, Quantitative 
 
 ## PROJECTS
 
+### Amazon Product Sentiment Analysis using VADER and RoBERTa 
+**October 2024 - November 2024**
+* Conducted sentiment analysis using Natural Language Processing tools on Amazon product reviews by implementing a data pipeline leveraging the LLM RoBERTa (transformer-based model) and VADER (lexicon-based model)
+* Enhanced model accuracy by 35% by leveraging transfer learning with transformer-based RoBERTa
+* Analyzed strengths and limitations in detecting neutral sentiments, with a focus on precision, recall, and F1-score metrics
+* Derived insights to inform potential refinements in e-commerce review analysis, enabling better customer satisfaction
+assessments and improved product recommendations
+<p>Check out my <a href="https://github.com/christina-hyman/Amazon_Product_Sentiment_Analysis" target="_blank">Amazon Product Sentiment Analysis Repository</a></p> 
+
 ### Job Postings Data Analysis using SQL and Tableau
 **September 2024 - October 2024**
 * Conducted in-depth analysis of 787686 job postings data from the year 2023 to uncover key trends in hiring for various data-related professions, including Data Scientists, Data Engineers, and Data Analysts
@@ -55,6 +64,7 @@ Database Management Systems, Machine Learning, Scalable Databases, Quantitative 
 *	Designed and implemented a Sequential Convolutional Neural Network (CNN) architecture in both TensorFlow and PyTorch 
 *	Applied transfer learning using the InceptionV3 pre-trained model in TensorFlow and the ResNet18 pre-trained model in PyTorch to perform binary classification of 25000 images containing cats and dogs
 *	Best performing model was the InceptionV3 TensorFlow Model with a validation accuracy of 98.58%
+<p>Check out my <a href="https://github.com/christina-hyman/Tensorflow_Cat_vs_Dog_Classification" target="_blank">Cat and Dog Image Classification Repository</a></p> 
 
 ### Factors Determining Airline Passenger Satisfaction using Google Cloud Platform	
 **April 2023 – May 2023**
