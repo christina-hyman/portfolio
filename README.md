@@ -5,6 +5,13 @@ christina.a.hyman@gmail.com | 914.573.6426 | New York, NY 10038 | [LinkedIn](htt
 Aspiring Data Scientist with expertise in statistical analysis, predictive modeling, and data visualization. Recent graduate with
 analytical skills, communication skills, and problem-solving ability to drive insights for business growth and innovation.
 
+## EDUCATION
+**Pace University, Master’s of Science (MS) in Data Science**<br>
+GPA: 3.98	| May 2024 | New York, NY
+
+**Pace University, Bachelor of Arts (BA) in Mathematics and Economics**<br>
+GPA: 3.98 | May 2020 | Pleasantville, NY
+
 ## TECHNICAL SKILLS
 **Analytics Languages**: Python (Jupyter Notebook, Google Colab), SQL 
 
