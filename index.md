@@ -2,18 +2,16 @@
 layout: default
 title: Christina Hyman
 description: >
-  <a href="mailto:christina.a.hyman@gmail.com">christina.a.hyman@gmail.com</a> | 
-  <a href="tel:+19145736426">914-573-6426</a>
+  email: christina.a.hyman@gmail.com | phone: 914-573-6426
 ---
 
 # Welcome to My Portfolio
 
-This is my personal portfolio showcasing my data science projects and achievements.
-
+Hello! I’m Christina Hyman, and I am a recent MS in Data Science graduate with a passion for transforming data into actionable insights. I am passionate about predictive modeling, data visualization, and machine learning. Welcome to my personal site!
 
 ## EDUCATION
 **Pace University, Master’s of Science (MS) in Data Science**<br>
-GPA: 3.98	| May 2024 | New York, NY
+GPA: 3.98 | May 2024 | New York, NY
 
 **Pace University, Bachelor of Arts (BA) in Mathematics and Economics**<br>
 GPA: 3.98 | May 2020 | Pleasantville, NY
