@@ -1,0 +1,11 @@
+/* Override background styles */
+body {
+    background-color: #ffffff; /* Set to white or any preferred color */
+    color: #000000; /* Adjust text color for better contrast */
+  }
+  
+  /* Optional: Style the header to match */
+  .page-header {
+    background: none; /* Remove header background */
+    border: none; /* Remove header border */
+  }
