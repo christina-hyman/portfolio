@@ -1,4 +1,6 @@
 title: Christina Hyman
-logo: /headshot.jpeg
+description: Aspiring data scientist passionate about predictive modeling, data visualization, and machine learning.
+remote_theme: pages-themes/cayman@v0.2.0
 show_downloads: false
-theme: jekyll-theme-minimal
+plugins:
+  - jekyll-remote-theme
