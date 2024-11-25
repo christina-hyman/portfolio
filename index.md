@@ -1,16 +1,15 @@
 ---
 layout: default
 title: Christina Hyman
-description: Aspiring data scientist portfolio
+description: >
+  <a href="mailto:christina.a.hyman@gmail.com">christina.a.hyman@gmail.com</a> | 
+  <a href="tel:+19145736426">914-573-6426</a>
 ---
 
 # Welcome to My Portfolio
 
 This is my personal portfolio showcasing my data science projects and achievements.
 
-## PROFILE
-Aspiring Data Scientist with expertise in statistical analysis, predictive modeling, and data visualization. Recent graduate with
-analytical skills, communication skills, and problem-solving ability to drive insights for business growth and innovation.
 
 ## EDUCATION
 **Pace University, Master’s of Science (MS) in Data Science**<br>
@@ -20,17 +19,12 @@ GPA: 3.98	| May 2024 | New York, NY
 GPA: 3.98 | May 2020 | Pleasantville, NY
 
 ## TECHNICAL SKILLS
-**Analytics Languages**: Python (Jupyter Notebook, Google Colab), SQL 
-
-**Database Management**: MySQL, PostgreSQL
-
-**Data Visualization Tools**: Tableau, Google Analytics, Microsoft Excel, Google Sheets, Google Data Studio
-
-**Big Data Management**: Google Cloud Platform (GCP), Google BigQuery, Hadoop, HDFS, Hive, HiveQL
-
-**Machine Learning Algorithms**: Logistic Regression, Decision Tree, Random Forest (RF), Support Vector, K-Means
-
-**Libraries**: Python (Pandas, NumPy, Matplotlib, Seaborn scikit-learn, SciPy, Tensorflow, Keras)
+**Analytics Languages**: Python (Jupyter Notebook, Google Colab), SQL<br>
+**Database Management**: MySQL, PostgreSQL<br>
+**Data Visualization Tools**: Tableau, Google Analytics, Microsoft Excel, Google Sheets, Google Data Studio<br>
+**Big Data Management**: Google Cloud Platform (GCP), Google BigQuery, Hadoop, HDFS, Hive, HiveQL<br>
+**Machine Learning Algorithms**: Logistic Regression, Decision Tree, Random Forest (RF), Support Vector, K-Means<br>
+**Libraries**: Python (Pandas, NumPy, Matplotlib, Seaborn scikit-learn, SciPy, Tensorflow, Keras)<br>
 
 ## PROJECTS
 
